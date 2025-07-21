@@ -1,0 +1,33 @@
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.deps.json
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.dll
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.pdb
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.GeneratedMSBuildEditorConfig.editorconfig
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.AssemblyInfoInputs.cache
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.AssemblyInfo.cs
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.csproj.CoreCompileInputs.cache
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.dll
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\obj\Debug\net7.0\refint\Hospital.Class.dll
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.pdb
+G:\Escritorio\ISSCO\Sistemas Operativos\2024\Final 2\Hospital.Class\obj\Debug\net7.0\ref\Hospital.Class.dll
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.deps.json
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.dll
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.pdb
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.AssemblyInfoInputs.cache
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.AssemblyInfo.cs
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.csproj.CoreCompileInputs.cache
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.dll
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\obj\Debug\net7.0\refint\Hospital.Class.dll
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.pdb
+D:\COSAS\Users\Admin\Desktop\final 2\Hospital.Class\obj\Debug\net7.0\ref\Hospital.Class.dll
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.deps.json
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.dll
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\bin\Debug\net7.0\Hospital.Class.pdb
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.AssemblyInfoInputs.cache
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.AssemblyInfo.cs
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.csproj.CoreCompileInputs.cache
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.dll
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\obj\Debug\net7.0\refint\Hospital.Class.dll
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\obj\Debug\net7.0\Hospital.Class.pdb
+D:\COSAS\Users\Admin\Desktop\windows form\final 2\Hospital.Class\obj\Debug\net7.0\ref\Hospital.Class.dll

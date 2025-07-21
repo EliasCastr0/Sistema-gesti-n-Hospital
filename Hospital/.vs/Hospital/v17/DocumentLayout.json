@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|d:\\cosas\\users\\admin\\desktop\\windows form\\final 2\\hospital\\hospital\\frminternaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|solutionrelative:hospital\\frminternaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\hospital\\frminternaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|solutionrelative:hospital\\frminternaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\hospital\\frmnuevainternacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|solutionrelative:hospital\\frmnuevainternacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|d:\\cosas\\users\\admin\\desktop\\windows form\\final 2\\hospital\\hospital\\frmnuevainternacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|solutionrelative:hospital\\frmnuevainternacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\hospital\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|solutionrelative:hospital\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\hospital\\frmobrasocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|solutionrelative:hospital\\frmobrasocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|d:\\cosas\\users\\admin\\desktop\\windows form\\final 2\\hospital\\hospital\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|solutionrelative:hospital\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|d:\\cosas\\users\\admin\\desktop\\windows form\\final 2\\hospital\\hospital\\frmobrasocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90342F3B-BD40-43CD-AF87-5E2620D09708}|Hospital\\Hospital.csproj|solutionrelative:hospital\\frmobrasocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital.Class\\ObraSocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital.Class\\Internacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmNuevaInternacion.cs",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmNuevaInternacion.cs",
+              "RelativeDocumentMoniker": "Hospital\\frmNuevaInternacion.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmNuevaInternacion.cs",
+              "RelativeToolTip": "Hospital\\frmNuevaInternacion.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:56:01.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInternaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmInternaciones.cs",
+              "RelativeDocumentMoniker": "Hospital\\frmInternaciones.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmInternaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\frmInternaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:31:55.138Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNuevaInternacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmNuevaInternacion.cs",
+              "RelativeDocumentMoniker": "Hospital\\frmNuevaInternacion.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital\\Hospital\\frmNuevaInternacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\final 2\\Hospital\\Hospital\\frmNuevaInternacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:31:49.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInternaciones.cs",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmInternaciones.cs",
+              "RelativeDocumentMoniker": "Hospital\\frmInternaciones.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmInternaciones.cs",
+              "RelativeToolTip": "Hospital\\frmInternaciones.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:32:54.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\Form1.cs",
+              "RelativeDocumentMoniker": "Hospital\\Form1.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital\\Hospital\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\final 2\\Hospital\\Hospital\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:18:33.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObraSocial.cs",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital.Class\\ObraSocial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\final 2\\Hospital.Class\\ObraSocial.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital.Class\\ObraSocial.cs",
+              "RelativeToolTip": "..\\..\\..\\final 2\\Hospital.Class\\ObraSocial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:55:29.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmObraSocial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmObraSocial.cs",
+              "RelativeDocumentMoniker": "Hospital\\frmObraSocial.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital\\Hospital\\frmObraSocial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\final 2\\Hospital\\Hospital\\frmObraSocial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:19:42.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\Form1.cs",
+              "RelativeDocumentMoniker": "Hospital\\Form1.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\Form1.cs",
+              "RelativeToolTip": "Hospital\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAnwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T22:50:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmObraSocial.cs",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmObraSocial.cs",
+              "RelativeDocumentMoniker": "Hospital\\frmObraSocial.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\windows form\\final 2\\Hospital\\Hospital\\frmObraSocial.cs",
+              "RelativeToolTip": "Hospital\\frmObraSocial.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:20:42.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Internacion.cs",
+              "DocumentMoniker": "D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital.Class\\Internacion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\final 2\\Hospital.Class\\Internacion.cs",
+              "ToolTip": "D:\\COSAS\\Users\\Admin\\Desktop\\final 2\\Hospital.Class\\Internacion.cs",
+              "RelativeToolTip": "..\\..\\..\\final 2\\Hospital.Class\\Internacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:43:32.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
